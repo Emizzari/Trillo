@@ -4,3 +4,5 @@ package-lock.json
 css/ 
 css/style.css
 css/style.css.map
+
+/.vscode
